@@ -387,7 +387,6 @@
 					}
 				},
 				error: function(err) {
-					return
 					Swal.fire({
 						icon: 'error',
 						title: 'Oops...',
