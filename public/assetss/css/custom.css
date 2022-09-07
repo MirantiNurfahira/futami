@@ -1,0 +1,18 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+
+/* show password */
+.toggle-password {
+    float: right;
+    margin-left: -25px;
+    padding-right: 25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+}
